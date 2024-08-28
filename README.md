@@ -31,6 +31,7 @@
 5 колец.
 
 English
+
 The "data.bin" file stores all possible unsorted Hanoi
 towers with 5 rings and their shortest solutions in the form of two lists. 
 The first of them is a set of tasks, the second is the appropriate solutions. 
