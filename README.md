@@ -46,10 +46,10 @@ The solutions consist of a sequence of coded moves. Below
 The code table is presented:
 
 ```
-where 0 1 2
-from 0 0 1
-out of 1 2 3
-out of 2 4 5 
+to     0 1 2
+from 0   0 1
+from 1 2   3
+from 2 4 5 
 ```
 
 0, 1, 2 - rod numbers
