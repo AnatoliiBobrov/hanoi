@@ -45,7 +45,7 @@ about 2 hours on a not very powerful computer.
 The solutions consist of a sequence of coded moves. Below 
 The code table is presented:
 
-``
+```
 where 0 1 2
 from 0 0 1
 out of 1 2 3
